@@ -53,3 +53,11 @@ Me chamo João Francisco,tenho 20 anos e sou natural de Mato-Grosso, atualmente 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img
+    aling="left"
+    alt="Docker"
+    title="Docker"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-original.svg"
+    />
